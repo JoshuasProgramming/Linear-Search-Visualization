@@ -1,4 +1,4 @@
-/*Linear Search Visualization CSS File 
+/*Linear Search Visualization JavaScript File 
     author(Joshua Thomas)
     date(07.01.2022)
     version:1.0
