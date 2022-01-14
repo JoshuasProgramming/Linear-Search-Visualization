@@ -1,3 +1,9 @@
+/*Linear Search Visualization CSS File 
+    author(Joshua Thomas)
+    date(07.01.2022)
+    version:1.0
+*/
+
 //Grab elements
 const box1 = document.getElementById('box1');
 const box2 = document.getElementById('box2');
